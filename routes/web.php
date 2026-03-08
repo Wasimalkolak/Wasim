@@ -6,6 +6,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/kolak', function () {
+Route::get('/al-kolak', function () {
     return view('welcome');
 });
